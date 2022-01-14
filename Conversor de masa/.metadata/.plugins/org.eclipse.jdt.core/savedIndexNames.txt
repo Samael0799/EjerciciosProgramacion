@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\HP\Documents\Ejercicios Programacion\Conversor de masa\.metadata\.plugins\org.eclipse.jdt.core
+244810057.index
+2983436838.index

@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\HP\Documents\Ejercicios Programacion\Calculo de velocidad de un MRU\.metadata\.plugins\org.eclipse.jdt.core
+2983436838.index
+1418638710.index
